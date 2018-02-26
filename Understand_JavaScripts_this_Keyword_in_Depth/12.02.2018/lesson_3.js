@@ -7,5 +7,5 @@ function Person(firstName, lastName) {
     //return this;
 }
 
-const person = new Person("Test", "ASDF");
+const person = new Person("Test", "ASDFasdfasdf");
 console.log(person);
